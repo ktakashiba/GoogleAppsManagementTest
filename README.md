@@ -1,0 +1,2 @@
+# GoogleAppsManagementTest
+グループアドレスを一括登録するためのステップ
